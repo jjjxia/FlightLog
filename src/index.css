@@ -76,7 +76,7 @@ button {
 .app-grid {
   display: grid;
   grid-template-columns: 360px minmax(0, 1fr);
-  grid-template-rows: minmax(530px, 1fr) auto;
+  grid-template-rows: minmax(700px, auto) auto;
   gap: 18px;
   min-height: calc(100vh - 180px);
 }
@@ -333,12 +333,12 @@ textarea {
 
 .globe-panel {
   display: grid;
-  min-height: 530px;
+  min-height: 800px;
 }
 
 .globe-shell {
   position: relative;
-  min-height: 460px;
+  min-height: 720px;
 }
 
 .globe-shell canvas {
@@ -459,6 +459,11 @@ textarea {
 
   .globe-panel {
     order: -1;
+    min-height: 530px;
+  }
+
+  .globe-shell {
+    min-height: 460px;
   }
 }
 
@@ -484,3 +489,6 @@ textarea {
     padding-inline: 14px;
   }
 }
+
+
+
