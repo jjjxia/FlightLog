@@ -14,16 +14,44 @@ import {
 } from './lib/flights';
 import { saveFlights, loadFlights } from './lib/storage';
 
+const SEED_URL = `${import.meta.env.BASE_URL}flight-log-seed.json`;
+
 export default function App() {
   const { airports, airportMap, isLoading: isAirportLoading, error: airportError } = useAirportIndex();
-  const [flights, setFlights] = useState(() => loadFlights());
+  const initialFlights = loadFlights();
+  const [flights, setFlights] = useState(initialFlights);
   const [selectedId, setSelectedId] = useState('');
   const [editingId, setEditingId] = useState('');
   const [yearFilter, setYearFilter] = useState('All');
+  const [hasHydrated, setHasHydrated] = useState(initialFlights.length > 0);
 
   useEffect(() => {
+    if (hasHydrated) return;
+
+    let cancelled = false;
+    fetch(SEED_URL)
+      .then((response) => (response.ok ? response.json() : null))
+      .then((payload) => {
+        if (cancelled || !payload) return;
+        const seedFlights = Array.isArray(payload) ? payload : payload.flights;
+        if (Array.isArray(seedFlights) && seedFlights.length > 0) {
+          setFlights(seedFlights);
+        }
+      })
+      .catch(() => {})
+      .finally(() => {
+        if (!cancelled) setHasHydrated(true);
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [hasHydrated]);
+
+  useEffect(() => {
+    if (!hasHydrated) return;
     saveFlights(flights);
-  }, [flights]);
+  }, [flights, hasHydrated]);
 
   const enrichedFlights = useMemo(() => {
     return sortFlightsDescending(flights.map(enrichFlight));

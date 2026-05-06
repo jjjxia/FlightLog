@@ -1,0 +1,934 @@
+{
+  "exportedAt": "2026-05-06T05:16:42.223Z",
+  "version": 3,
+  "flights": [
+    {
+      "id": "25e783d4-51f1-4ae1-9ae4-99583a8e05e3",
+      "from": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "to": {
+        "code": "PVG",
+        "iata": "PVG",
+        "ident": "ZSPD",
+        "name": "Shanghai Pudong International Airport",
+        "city": "Shanghai (Pudong)",
+        "country": "CN",
+        "lat": 31.1434,
+        "lng": 121.805
+      },
+      "yearMonth": "2026-05",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-05-06T05:08:10.260Z",
+      "updatedAt": "2026-05-06T05:08:10.260Z"
+    },
+    {
+      "id": "b358bddb-e254-4295-9e49-cd01aee11efa",
+      "from": {
+        "code": "EUG",
+        "iata": "EUG",
+        "ident": "KEUG",
+        "name": "Eugene Airport",
+        "city": "Eugene",
+        "country": "US",
+        "lat": 44.124599,
+        "lng": -123.211998
+      },
+      "to": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "yearMonth": "2026-05",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-05-06T05:08:03.227Z",
+      "updatedAt": "2026-05-06T05:08:03.227Z"
+    },
+    {
+      "id": "47ca72b3-c516-4d25-9572-ccdfdd4c1982",
+      "from": {
+        "code": "DEN",
+        "iata": "DEN",
+        "ident": "KDEN",
+        "name": "Denver International Airport",
+        "city": "Denver",
+        "country": "US",
+        "lat": 39.860027,
+        "lng": -104.673792
+      },
+      "to": {
+        "code": "PTJ",
+        "iata": "PTJ",
+        "ident": "YPOD",
+        "name": "Portland Airport",
+        "city": "",
+        "country": "AU",
+        "lat": -38.31809997558594,
+        "lng": 141.4709930419922
+      },
+      "yearMonth": "2026-05",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-05-06T05:07:55.228Z",
+      "updatedAt": "2026-05-06T05:07:55.228Z"
+    },
+    {
+      "id": "a0c87ce9-55eb-408a-a38c-0aaf3f818cc2",
+      "from": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "to": {
+        "code": "DEN",
+        "iata": "DEN",
+        "ident": "KDEN",
+        "name": "Denver International Airport",
+        "city": "Denver",
+        "country": "US",
+        "lat": 39.860027,
+        "lng": -104.673792
+      },
+      "yearMonth": "2026-05",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-05-06T05:07:47.527Z",
+      "updatedAt": "2026-05-06T05:07:47.527Z"
+    },
+    {
+      "id": "f6c43c51-758c-4f2a-99ef-f2b70341e052",
+      "from": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "to": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "yearMonth": "2026-05",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-05-06T05:07:33.689Z",
+      "updatedAt": "2026-05-06T05:07:33.689Z"
+    },
+    {
+      "id": "d2c6b268-65d6-4b23-bcff-71bc622c371f",
+      "from": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "to": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "yearMonth": "2026-05",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-05-06T05:07:13.432Z",
+      "updatedAt": "2026-05-06T05:07:13.432Z"
+    },
+    {
+      "id": "78d8fb27-eca7-48ac-a6c4-8886c4798b05",
+      "from": {
+        "code": "PVG",
+        "iata": "PVG",
+        "ident": "ZSPD",
+        "name": "Shanghai Pudong International Airport",
+        "city": "Shanghai (Pudong)",
+        "country": "CN",
+        "lat": 31.1434,
+        "lng": 121.805
+      },
+      "to": {
+        "code": "KUL",
+        "iata": "KUL",
+        "ident": "WMKK",
+        "name": "Kuala Lumpur International Airport",
+        "city": "Sepang",
+        "country": "MY",
+        "lat": 2.74558,
+        "lng": 101.709999
+      },
+      "yearMonth": "2024-06",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T04:34:17.045Z",
+      "updatedAt": "2026-03-20T04:34:17.045Z"
+    },
+    {
+      "id": "e677af7c-30a7-4c36-a3dc-242708dc5df7",
+      "from": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "to": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "yearMonth": "2026-07",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T04:32:38.197Z",
+      "updatedAt": "2026-03-20T04:32:38.197Z"
+    },
+    {
+      "id": "9704859f-f554-42d3-8882-6dab2a54af36",
+      "from": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "to": {
+        "code": "LIS",
+        "iata": "LIS",
+        "ident": "LPPT",
+        "name": "Lisbon Humberto Delgado Airport",
+        "city": "Lisbon",
+        "country": "PT",
+        "lat": 38.7813,
+        "lng": -9.13592
+      },
+      "yearMonth": "2026-07",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T04:32:24.749Z",
+      "updatedAt": "2026-03-20T04:32:24.749Z"
+    },
+    {
+      "id": "0c4410e7-0d54-4b43-b25b-7c5ac8b1a3a8",
+      "from": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "to": {
+        "code": "PDT",
+        "iata": "PDT",
+        "ident": "KPDT",
+        "name": "Eastern Oregon Regional Airport at Pendleton",
+        "city": "Pendleton",
+        "country": "US",
+        "lat": 45.695099,
+        "lng": -118.841003
+      },
+      "yearMonth": "2026-05",
+      "purpose": "conference",
+      "note": "",
+      "createdAt": "2026-03-20T04:31:25.487Z",
+      "updatedAt": "2026-03-20T04:31:25.487Z"
+    },
+    {
+      "id": "495402cb-75e3-435e-a578-411e91fa81b3",
+      "from": {
+        "code": "MIA",
+        "iata": "MIA",
+        "ident": "KMIA",
+        "name": "Miami International Airport",
+        "city": "Miami",
+        "country": "US",
+        "lat": 25.796011,
+        "lng": -80.289751
+      },
+      "to": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "yearMonth": "2026-03",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:36:47.725Z",
+      "updatedAt": "2026-03-20T01:36:47.725Z"
+    },
+    {
+      "id": "e18e58a2-15e4-4384-bc77-325288b4cb47",
+      "from": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "to": {
+        "code": "MIA",
+        "iata": "MIA",
+        "ident": "KMIA",
+        "name": "Miami International Airport",
+        "city": "Miami",
+        "country": "US",
+        "lat": 25.796011,
+        "lng": -80.289751
+      },
+      "yearMonth": "2026-03",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:36:29.923Z",
+      "updatedAt": "2026-03-20T01:36:29.923Z"
+    },
+    {
+      "id": "d6c39100-1706-4200-835d-4aaf4bd54b8d",
+      "from": {
+        "code": "HND",
+        "iata": "HND",
+        "ident": "RJTT",
+        "name": "Tokyo Haneda International Airport",
+        "city": "Tokyo",
+        "country": "JP",
+        "lat": 35.549678,
+        "lng": 139.786958
+      },
+      "to": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "yearMonth": "2026-01",
+      "purpose": "school",
+      "note": "",
+      "createdAt": "2026-03-20T01:36:21.501Z",
+      "updatedAt": "2026-03-20T01:36:21.501Z"
+    },
+    {
+      "id": "059299d1-4db2-4077-99ef-6b1387846b1f",
+      "from": {
+        "code": "PVG",
+        "iata": "PVG",
+        "ident": "ZSPD",
+        "name": "Shanghai Pudong International Airport",
+        "city": "Shanghai (Pudong)",
+        "country": "CN",
+        "lat": 31.1434,
+        "lng": 121.805
+      },
+      "to": {
+        "code": "HND",
+        "iata": "HND",
+        "ident": "RJTT",
+        "name": "Tokyo Haneda International Airport",
+        "city": "Tokyo",
+        "country": "JP",
+        "lat": 35.549678,
+        "lng": 139.786958
+      },
+      "yearMonth": "2026-01",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:36:09.792Z",
+      "updatedAt": "2026-03-20T01:36:09.792Z"
+    },
+    {
+      "id": "628e2f8d-8bd2-4380-8bd2-be828fc65966",
+      "from": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "to": {
+        "code": "PVG",
+        "iata": "PVG",
+        "ident": "ZSPD",
+        "name": "Shanghai Pudong International Airport",
+        "city": "Shanghai (Pudong)",
+        "country": "CN",
+        "lat": 31.1434,
+        "lng": 121.805
+      },
+      "yearMonth": "2025-12",
+      "purpose": "family",
+      "note": "",
+      "createdAt": "2026-03-20T01:35:59.741Z",
+      "updatedAt": "2026-03-20T01:35:59.741Z"
+    },
+    {
+      "id": "fc191382-4e65-4d02-9e8e-dade03a6474d",
+      "from": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "to": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "yearMonth": "2025-12",
+      "purpose": "family",
+      "note": "",
+      "createdAt": "2026-03-20T01:35:48.924Z",
+      "updatedAt": "2026-03-20T01:35:48.924Z"
+    },
+    {
+      "id": "f97715d2-e6ae-4144-8f33-d5921530f6fb",
+      "from": {
+        "code": "HND",
+        "iata": "HND",
+        "ident": "RJTT",
+        "name": "Tokyo Haneda International Airport",
+        "city": "Tokyo",
+        "country": "JP",
+        "lat": 35.549678,
+        "lng": 139.786958
+      },
+      "to": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "yearMonth": "2025-08",
+      "purpose": "school",
+      "note": "",
+      "createdAt": "2026-03-20T01:35:34.909Z",
+      "updatedAt": "2026-03-20T01:35:34.909Z"
+    },
+    {
+      "id": "76f10777-4500-4745-a7b9-e0b75a4636af",
+      "from": {
+        "code": "PVG",
+        "iata": "PVG",
+        "ident": "ZSPD",
+        "name": "Shanghai Pudong International Airport",
+        "city": "Shanghai (Pudong)",
+        "country": "CN",
+        "lat": 31.1434,
+        "lng": 121.805
+      },
+      "to": {
+        "code": "HND",
+        "iata": "HND",
+        "ident": "RJTT",
+        "name": "Tokyo Haneda International Airport",
+        "city": "Tokyo",
+        "country": "JP",
+        "lat": 35.549678,
+        "lng": 139.786958
+      },
+      "yearMonth": "2025-08",
+      "purpose": "school",
+      "note": "",
+      "createdAt": "2026-03-20T01:35:17.874Z",
+      "updatedAt": "2026-03-20T01:35:17.874Z"
+    },
+    {
+      "id": "6c1dbb77-c35c-48d7-b81f-1bd6eeb8cf6c",
+      "from": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "to": {
+        "code": "PVG",
+        "iata": "PVG",
+        "ident": "ZSPD",
+        "name": "Shanghai Pudong International Airport",
+        "city": "Shanghai (Pudong)",
+        "country": "CN",
+        "lat": 31.1434,
+        "lng": 121.805
+      },
+      "yearMonth": "2025-05",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:34:45.462Z",
+      "updatedAt": "2026-03-20T01:34:45.462Z"
+    },
+    {
+      "id": "4752430d-fe7f-487d-ae3e-9acfa8724d9e",
+      "from": {
+        "code": "ORD",
+        "iata": "ORD",
+        "ident": "KORD",
+        "name": "Chicago O'Hare International Airport",
+        "city": "Chicago",
+        "country": "US",
+        "lat": 41.9786,
+        "lng": -87.9048
+      },
+      "to": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "yearMonth": "2025-05",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:34:34.734Z",
+      "updatedAt": "2026-03-20T01:34:34.734Z"
+    },
+    {
+      "id": "08c5a3be-4a1c-42d7-9c6a-53ab37f22a95",
+      "from": {
+        "code": "MDT",
+        "iata": "MDT",
+        "ident": "KMDT",
+        "name": "Harrisburg International Airport",
+        "city": "Harrisburg",
+        "country": "US",
+        "lat": 40.192838,
+        "lng": -76.762333
+      },
+      "to": {
+        "code": "ORD",
+        "iata": "ORD",
+        "ident": "KORD",
+        "name": "Chicago O'Hare International Airport",
+        "city": "Chicago",
+        "country": "US",
+        "lat": 41.9786,
+        "lng": -87.9048
+      },
+      "yearMonth": "2025-05",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:34:22.510Z",
+      "updatedAt": "2026-03-20T01:34:22.510Z"
+    },
+    {
+      "id": "452a9e69-c7a4-4e25-af8c-afaf7c02b7c7",
+      "from": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "to": {
+        "code": "MDT",
+        "iata": "MDT",
+        "ident": "KMDT",
+        "name": "Harrisburg International Airport",
+        "city": "Harrisburg",
+        "country": "US",
+        "lat": 40.192838,
+        "lng": -76.762333
+      },
+      "yearMonth": "2025-03",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:34:06.414Z",
+      "updatedAt": "2026-03-20T01:34:06.414Z"
+    },
+    {
+      "id": "81121360-50e5-44cd-8375-d5a46b6fb454",
+      "from": {
+        "code": "BOS",
+        "iata": "BOS",
+        "ident": "KBOS",
+        "name": "Boston Logan International Airport",
+        "city": "Boston",
+        "country": "US",
+        "lat": 42.36197,
+        "lng": -71.0079
+      },
+      "to": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "yearMonth": "2025-03",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:33:58.829Z",
+      "updatedAt": "2026-03-20T01:33:58.829Z"
+    },
+    {
+      "id": "91cdaedf-4c4d-446a-967c-f6fe0a24e3d9",
+      "from": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "to": {
+        "code": "BOS",
+        "iata": "BOS",
+        "ident": "KBOS",
+        "name": "Boston Logan International Airport",
+        "city": "Boston",
+        "country": "US",
+        "lat": 42.36197,
+        "lng": -71.0079
+      },
+      "yearMonth": "2025-03",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:33:51.074Z",
+      "updatedAt": "2026-03-20T01:33:51.074Z"
+    },
+    {
+      "id": "1e1090fb-962d-4e6b-b364-21980587b98b",
+      "from": {
+        "code": "MDT",
+        "iata": "MDT",
+        "ident": "KMDT",
+        "name": "Harrisburg International Airport",
+        "city": "Harrisburg",
+        "country": "US",
+        "lat": 40.192838,
+        "lng": -76.762333
+      },
+      "to": {
+        "code": "IAD",
+        "iata": "IAD",
+        "ident": "KIAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Dulles",
+        "country": "US",
+        "lat": 38.9445,
+        "lng": -77.455803
+      },
+      "yearMonth": "2025-03",
+      "purpose": "leisure",
+      "note": "",
+      "createdAt": "2026-03-20T01:33:41.070Z",
+      "updatedAt": "2026-03-20T01:33:41.070Z"
+    },
+    {
+      "id": "4a25910f-09af-4c5a-95eb-6549b3a335a7",
+      "from": {
+        "code": "ORD",
+        "iata": "ORD",
+        "ident": "KORD",
+        "name": "Chicago O'Hare International Airport",
+        "city": "Chicago",
+        "country": "US",
+        "lat": 41.9786,
+        "lng": -87.9048
+      },
+      "to": {
+        "code": "MDT",
+        "iata": "MDT",
+        "ident": "KMDT",
+        "name": "Harrisburg International Airport",
+        "city": "Harrisburg",
+        "country": "US",
+        "lat": 40.192838,
+        "lng": -76.762333
+      },
+      "yearMonth": "2025-01",
+      "purpose": "school",
+      "note": "",
+      "createdAt": "2026-03-20T01:33:28.822Z",
+      "updatedAt": "2026-03-20T01:33:28.822Z"
+    },
+    {
+      "id": "7ac21ec7-4ea4-4b09-bd1a-17a10ce2e91f",
+      "from": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "to": {
+        "code": "ORD",
+        "iata": "ORD",
+        "ident": "KORD",
+        "name": "Chicago O'Hare International Airport",
+        "city": "Chicago",
+        "country": "US",
+        "lat": 41.9786,
+        "lng": -87.9048
+      },
+      "yearMonth": "2025-01",
+      "purpose": "school",
+      "note": "",
+      "createdAt": "2026-03-20T01:33:01.732Z",
+      "updatedAt": "2026-03-20T01:33:01.732Z"
+    },
+    {
+      "id": "59de4ed3-3180-4b8a-b737-51c22f04e80b",
+      "from": {
+        "code": "PVG",
+        "iata": "PVG",
+        "ident": "ZSPD",
+        "name": "Shanghai Pudong International Airport",
+        "city": "Shanghai (Pudong)",
+        "country": "CN",
+        "lat": 31.1434,
+        "lng": 121.805
+      },
+      "to": {
+        "code": "SFO",
+        "iata": "SFO",
+        "ident": "KSFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "country": "US",
+        "lat": 37.619806,
+        "lng": -122.374821
+      },
+      "yearMonth": "2025-01",
+      "purpose": "school",
+      "note": "",
+      "createdAt": "2026-03-20T01:32:33.726Z",
+      "updatedAt": "2026-03-20T01:32:33.726Z"
+    },
+    {
+      "id": "89510e77-7e9d-4fe4-8f41-2ce753863d63",
+      "from": {
+        "code": "LAX",
+        "iata": "LAX",
+        "ident": "KLAX",
+        "name": "Los Angeles International Airport",
+        "city": "Los Angeles",
+        "country": "US",
+        "lat": 33.942501,
+        "lng": -118.407997
+      },
+      "to": {
+        "code": "PVG",
+        "iata": "PVG",
+        "ident": "ZSPD",
+        "name": "Shanghai Pudong International Airport",
+        "city": "Shanghai (Pudong)",
+        "country": "CN",
+        "lat": 31.1434,
+        "lng": 121.805
+      },
+      "yearMonth": "2024-12",
+      "purpose": "family",
+      "note": "",
+      "createdAt": "2026-03-20T01:32:21.817Z",
+      "updatedAt": "2026-03-20T01:32:21.817Z"
+    },
+    {
+      "id": "bb4a2959-881e-4fe2-9f97-8d8af012dc1d",
+      "from": {
+        "code": "ORD",
+        "iata": "ORD",
+        "ident": "KORD",
+        "name": "Chicago O'Hare International Airport",
+        "city": "Chicago",
+        "country": "US",
+        "lat": 41.9786,
+        "lng": -87.9048
+      },
+      "to": {
+        "code": "LAX",
+        "iata": "LAX",
+        "ident": "KLAX",
+        "name": "Los Angeles International Airport",
+        "city": "Los Angeles",
+        "country": "US",
+        "lat": 33.942501,
+        "lng": -118.407997
+      },
+      "yearMonth": "2024-12",
+      "purpose": "family",
+      "note": "",
+      "createdAt": "2026-03-20T01:32:07.935Z",
+      "updatedAt": "2026-03-20T01:32:07.935Z"
+    },
+    {
+      "id": "8f94aada-5540-47f4-8be3-79d72826b9aa",
+      "from": {
+        "code": "MDT",
+        "iata": "MDT",
+        "ident": "KMDT",
+        "name": "Harrisburg International Airport",
+        "city": "Harrisburg",
+        "country": "US",
+        "lat": 40.192838,
+        "lng": -76.762333
+      },
+      "to": {
+        "code": "ORD",
+        "iata": "ORD",
+        "ident": "KORD",
+        "name": "Chicago O'Hare International Airport",
+        "city": "Chicago",
+        "country": "US",
+        "lat": 41.9786,
+        "lng": -87.9048
+      },
+      "yearMonth": "2024-12",
+      "purpose": "family",
+      "note": "",
+      "createdAt": "2026-03-20T01:31:45.291Z",
+      "updatedAt": "2026-03-20T01:31:45.291Z"
+    },
+    {
+      "id": "492e9139-8065-45f6-8374-eb344c5005b1",
+      "from": {
+        "code": "LAX",
+        "iata": "LAX",
+        "ident": "KLAX",
+        "name": "Los Angeles International Airport",
+        "city": "Los Angeles",
+        "country": "US",
+        "lat": 33.942501,
+        "lng": -118.407997
+      },
+      "to": {
+        "code": "PHL",
+        "iata": "PHL",
+        "ident": "KPHL",
+        "name": "Philadelphia International Airport",
+        "city": "Philadelphia",
+        "country": "US",
+        "lat": 39.871899,
+        "lng": -75.241096
+      },
+      "yearMonth": "2024-08",
+      "purpose": "school",
+      "note": "",
+      "createdAt": "2026-03-20T01:30:00.069Z",
+      "updatedAt": "2026-03-20T01:30:00.069Z"
+    },
+    {
+      "id": "4a3cf3d8-ed15-4526-a21c-303b4315189e",
+      "from": {
+        "code": "PVG",
+        "iata": "PVG",
+        "ident": "ZSPD",
+        "name": "Shanghai Pudong International Airport",
+        "city": "Shanghai (Pudong)",
+        "country": "CN",
+        "lat": 31.1434,
+        "lng": 121.805
+      },
+      "to": {
+        "code": "LAX",
+        "iata": "LAX",
+        "ident": "KLAX",
+        "name": "Los Angeles International Airport",
+        "city": "Los Angeles",
+        "country": "US",
+        "lat": 33.942501,
+        "lng": -118.407997
+      },
+      "departureTime": "2024-08-23T13:03",
+      "arrivalTime": "2024-08-23T23:33",
+      "flightNo": "UA805",
+      "airline": "UA",
+      "purpose": "school",
+      "tripName": "First time US",
+      "note": "",
+      "createdAt": "2026-03-20T01:10:46.516Z",
+      "updatedAt": "2026-03-20T01:10:46.516Z"
+    }
+  ]
+}

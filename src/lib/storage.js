@@ -15,3 +15,11 @@ export function loadFlights() {
 export function saveFlights(flights) {
   localStorage.setItem(FLIGHTS_STORAGE_KEY, JSON.stringify(flights));
 }
+
+export function hasStoredFlights() {
+  try {
+    return localStorage.getItem(FLIGHTS_STORAGE_KEY) !== null;
+  } catch {
+    return false;
+  }
+}
